@@ -25,3 +25,6 @@ To use a different dataset, change the "load_dataset" class (in train.py) and la
 
 Dummy dataset (prev_images) present to check unique-ness of data.
 Use test.py to run all checks on user data.
+
+
+# Contributers
