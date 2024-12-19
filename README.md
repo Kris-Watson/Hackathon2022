@@ -1,4 +1,4 @@
-# Hackathon2022
+# Hack'O Mania 2022
 
 With the advance of Machine Learning software and leaps in computing hardware, data analysis has never been easier. However, obtaining specific or new clean data to train models, is a manual and time consuming process.
 
@@ -25,6 +25,3 @@ To use a different dataset, change the "load_dataset" class (in train.py) and la
 
 Dummy dataset (prev_images) present to check unique-ness of data.
 Use test.py to run all checks on user data.
-
-
-# Contributers
