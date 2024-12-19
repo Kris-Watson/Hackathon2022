@@ -1,4 +1,4 @@
-# Hack'O Mania 2022
+# NTU Deep Learning Week
 
 With the advance of Machine Learning software and leaps in computing hardware, data analysis has never been easier. However, obtaining specific or new clean data to train models, is a manual and time consuming process.
 
